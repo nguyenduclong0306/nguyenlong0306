@@ -1,0 +1,5 @@
+lệnh setup thư viện python( 3.12 )
+--------------------------------------
+pip install selenium webdriver-manager tk
+--------------------------------------
+Sau khi cài xong thư viện thì mở file nuoifb -_-
